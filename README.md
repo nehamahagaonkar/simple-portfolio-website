@@ -6,11 +6,14 @@
 
 
 **Checks to meet:**
-Must include index.html with basic HTML5 structure\nMust include README.md with project description and setup instructions\nMust include MIT LICENSE file\nWebsite should be responsive
+Must include index.html with basic HTML5 structure
+Must include README.md with project description and setup instructions
+Must include MIT LICENSE file
+Website should be responsive
 
 ## Setup
 1. Open `index.html` in a browser.
 2. No build steps required.
 
 ## Notes
-This README was generated as a fallback (OpenAI did not return an explicit README).
+This README was generated as a fallback (AIpipe did not return an explicit README).
